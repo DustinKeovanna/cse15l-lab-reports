@@ -9,7 +9,7 @@ I'll showcase three filesystem commands we learned in our first lab for this rep
 /home
 
 ```
-By giving no input for the cd command, it moves us back the the main directory, which is /home.
+By giving no input for the cd command, it moves us back the the main directory, which is /home. No error occurs when given no input for using the cd command.
 
 (given directory path as argument)
 ```
@@ -18,7 +18,7 @@ By giving no input for the cd command, it moves us back the the main directory, 
 /home/lecture1
 
 ```
-This shows lecture1 being an input for the command, and the 2nd line shows we're in the lecture1 directory.
+This shows lecture1 being an input for the command, and the 2nd line shows we're in the lecture1 directory. This means the working directory we're currently in is lecture1. No error occurs when given a working directory input for using the cd command.
 
 (given a file path as an argument)
 ```
@@ -28,7 +28,7 @@ This shows lecture1 being an input for the command, and the 2nd line shows we're
 bash: cd: en-us.txt: Not a directory
 
 ```
-We tried to use the command on the file, "en-us.txt" but were given an error because cd only lets us switch terminals. You can't do this with files. I switched the messages directory because it was a directory to have files to test the command with.
+We tried to use the command on the file, "en-us.txt" but were given an error because cd only lets us switch between working directories. You can't do this with files. I switched to the messages directory because it was a directory that had files to test the command with.
 
 ## The ls Command
 (given no argument)
@@ -37,7 +37,7 @@ We tried to use the command on the file, "en-us.txt" but were given an error bec
 lecture1  messages
 
 ```
-By giving no input for the ls command, it shows us the folders in the current directory we're in. In "home", we have two folders which are lecture1 and messages.
+By giving no input for the ls command, it shows us the folders in the current directory we're in. In "home", we have two folders which are lecture1 and messages. The current directory was home, and no error occurred.
 
 (given directory path as argument)
 ```
@@ -45,7 +45,7 @@ By giving no input for the ls command, it shows us the folders in the current di
 Hello.class  Hello.java  lecture1  messages  README
 
 ```
-This shows lecture1 being an input for the ls command. The markdown shows how within the lecture1 folder, there exist five files in the folder. 
+This shows lecture1 being an input for the ls command. The markdown shows how within the lecture1 folder, there exist five files in the folder. No error occurs and the current directory was /lecture1. 
 
 (given a file path as an argument)
 ```
@@ -62,7 +62,7 @@ using the ls command on the file doesn't produce an error, but it doesn't provid
 [user@sahara ~/lecture1]$ cat
 
 ```
-I'm currently in the lecture1 directory, but it wouldn't matter anyways because there's nothing for the command to print.
+I'm currently in the lecture1 working directory, but it wouldn't matter anyways because there's nothing for the command to print.
 
 (given directory path as argument)
 ```
@@ -70,7 +70,7 @@ I'm currently in the lecture1 directory, but it wouldn't matter anyways because 
 cat: messages: Is a directory
 
 ```
-You can't print stuff if it's a directory, since folders aren't files.
+An error occurred because you can't print stuff if it's a directory. Folders aren't files. My current directory was lecture1.
 
 (given a file path as an argument)
 ```
@@ -90,5 +90,5 @@ public class Hello {
 // a
 
 ```
-We switched to the lecture1 directory because it had the Hello.java file. using cat on a file simply prints its contents.
+We switched to the lecture1 directory because it had the Hello.java file. using cat on a file simply prints its contents. No Error occured.
 
