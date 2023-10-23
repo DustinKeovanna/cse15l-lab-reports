@@ -13,3 +13,9 @@ The relevant argument takes a URL and checks if it contains ```/add-message```. 
 The values do not change or differ, because the argument converts the input into a string. Regardless of if it is an int or double.
 
 ## Part 2
+![Image](lab2to5.png)
+For public key:
+/Users/dustin/.ssh/id_rsa.pub
+
+For private key:
+/Users/dustin/.ssh/id_rsa
