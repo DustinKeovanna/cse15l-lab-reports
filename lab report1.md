@@ -9,7 +9,7 @@ I'll showcase three filesystem commands we learned in our first lab for this rep
 /home
 
 ```
-By giving no input for the cd command, it moves us back the the main directory, which is /home. No error occurs when given no input for using the cd command.
+By giving no input for the cd command, it moves us back the the main directory, which is ```/home```. No error occurs when given no input for using the cd command.
 
 (given directory path as argument)
 ```
