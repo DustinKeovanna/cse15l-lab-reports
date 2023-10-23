@@ -4,3 +4,5 @@ For my 2nd lab report, I'll show the code I launched on my web browser, ```Strin
 ## The StringServer web browser
 Here's an image of the code I used for the ```StringServer.java``` web browser.
 ![Image](lab2to2.png)
+---
+![Image](lab2to3.png) ![Image](lab2to4.png)
