@@ -53,7 +53,7 @@ This shows lecture1 being an input for the ls command. The markdown shows how wi
 af.txt
 
 ```
-using the ls command on the file doesn't produce an error, but it doesn't provide much important info since the only thing within a file is the file itself.
+using the ls command on the file doesn't produce an error, but it doesn't provide much important info since the only thing within a file is the file itself. The working directory I'm in is messages.
 
 ## The cat command
 
@@ -62,7 +62,7 @@ using the ls command on the file doesn't produce an error, but it doesn't provid
 [user@sahara ~/lecture1]$ cat
 
 ```
-I'm currently in the lecture1 working directory, but it wouldn't matter anyways because there's nothing for the command to print.
+I'm in the lecture1 working directory, and there was no output. No error occurred because the command is still waiting for me input a file to print its contents.
 
 (given directory path as argument)
 ```
@@ -90,5 +90,5 @@ public class Hello {
 // a
 
 ```
-We switched to the lecture1 directory because it had the Hello.java file. using cat on a file simply prints its contents. No Error occured.
+We switched to the lecture1 working directory because it had the Hello.java file. using cat on a file simply prints its contents. No Error occured.
 
