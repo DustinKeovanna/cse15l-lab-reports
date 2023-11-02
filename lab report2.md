@@ -5,12 +5,20 @@ For my 2nd lab report, I'll show the code I launched on my web browser, ```Strin
 Here's an image of the code I used for the ```StringServer.java``` web browser.
 ![Image](lab2to2.png)
 ---
-![Image](lab2to3.png) ![Image](lab2to4.png)
-For both of the images I showed, the method I used was handlerequest. 
+![Image](lab2to3.png) 
+For image 1, the method I used was handlerequest. 
 
 The relevant argument takes a URL and checks if it contains ```/add-message```. The message is added to a string query and returned to the browser. 
 
-The values do not change or differ, because the argument converts the input into a string. Regardless of if it is an int or double.
+The values do not change or differ, because the argument converts the input into a string, regardless of if it is an int or double.
+
+![Image](lab2to4.png)
+For image 2, the method I used was handlerequest. 
+
+The relevant argument takes a URL and checks if it contains ```/add-message```. The message is added to a string query and returned to the browser. 
+
+The values do not change or differ, because the argument converts the input into a string, regardless of if it is an int or double.
+
 
 ## Part 2
 ![Image](lab2to5.png)
