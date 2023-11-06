@@ -21,11 +21,11 @@ The values do not change or differ, because the argument converts the input into
 
 
 ## Part 2
-For public key:
+For public key using my ieng6 account:
 /Users/dustin/.ssh/id_rsa.pub
 ![Image](ieng6private.png)
 
-For private key:
+For private key on my computer:
 
 /Users/dustin/.ssh/id_rsa
 ![Image](privatepathlocal.png)
