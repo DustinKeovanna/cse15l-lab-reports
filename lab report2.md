@@ -21,10 +21,10 @@ The values do not change or differ, because the argument converts the input into
 
 
 ## Part 2
-![Image](ieng6 private.png)
+![Image](ieng6private.png)
 For public key:
 /Users/dustin/.ssh/id_rsa.pub
-![Image](private path local.png)
+![Image](privatepathlocal.png)
 For private key:
 /Users/dustin/.ssh/id_rsa
 
