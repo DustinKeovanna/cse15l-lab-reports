@@ -8,14 +8,14 @@ Here's an image of the code I used for the ```StringServer.java``` web browser.
 ![Image](lab2to3.png) 
 For image 1, the method I used was handlerequest. 
 
-The relevant argument takes a URL and checks if it contains ```/add-message```. The message is added to a string query and returned to the browser. 
+The relevant argument is a URL and checks if it contains ```/add-message```. If it does The message is added to a string array and returned to the browser. The Variable, ```Message``` is returned and the value is the previous message with the string formatted int of ```num```. 
 
 The values do not change or differ, because the argument converts the input into a string, regardless of if it is an int or double.
 
 ![Image](lab2to4.png)
 For image 2, the method I used was handlerequest. 
 
-The relevant argument takes a URL and checks if it contains ```/add-message```. The message is added to a string query and returned to the browser. 
+The relevant argument is a URL and checks if it contains ```/add-message```. If it does The message is added to a string array and returned to the browser. The Variable, ```Message``` is returned and the value is the previous message with the string formatted int of ```num```.
 
 The values do not change or differ, because the argument converts the input into a string, regardless of if it is an int or double.
 
