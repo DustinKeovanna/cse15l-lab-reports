@@ -21,9 +21,13 @@ The values do not change or differ, because the argument converts the input into
 
 
 ## Part 2
-![Image](lab2to5.png)
+![Image](ieng6 private.png)
 For public key:
 /Users/dustin/.ssh/id_rsa.pub
-
+![Image](private path local.png)
 For private key:
 /Users/dustin/.ssh/id_rsa
+
+Proof of using the login without a password prompt.
+![Image](path working.png)
+
