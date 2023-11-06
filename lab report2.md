@@ -26,9 +26,13 @@ For public key:
 ![Image](ieng6private.png)
 
 For private key:
+
 /Users/dustin/.ssh/id_rsa
 ![Image](privatepathlocal.png)
 
 Proof of using the login without a password prompt.
 ![Image](pathworking.png)
 
+
+## Part 3 - Reflection
+From week 3, I learned how to code a simple web browser and launch it through Edstem though I wish I could've launched it from VSCODE. I also learned how to remotely connect through my laptop. The only thing I need to get better at is remembering the terminal commands.
