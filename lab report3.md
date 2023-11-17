@@ -42,6 +42,6 @@ public class ArrayExamples {
 ```
 * A symptom: the output on the terminal from running the test case is expected to crack the code.
 
-An output from a Failure-inducing input for the buggy program:
+The output that should fail.
 
 
