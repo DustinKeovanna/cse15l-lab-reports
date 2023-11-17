@@ -1,7 +1,7 @@
 # Lab Report #3
 
 ## Part 1 bugs
-A test case where it's expected to fail and show the buggyness of the code.
+* A test case where it's expected to fail and show the bugginess of the code.
 ```
 public class ArrayExamples {
   // Returns a *new* array with all the elements of the input array in reversed
@@ -14,9 +14,6 @@ public class ArrayExamples {
     return arr;
   }
 }
-```
-This is the Junit test 
-```
 @Test
   public void testingReversed() {
     int[] input1 = {2,5,4};
@@ -24,7 +21,7 @@ This is the Junit test
     assertArrayEquals(new int[]{4,5,2}, ArrayExamples.reversed(input1));
   }
 ```
-A test case where it's expected to not fail and pass of the code.                                                                     
+* A test case where it's expected not to fail the code.                                                                     
 ```
 public class ArrayExamples {
   // Returns a *new* array with all the elements of the input array in reversed
@@ -37,12 +34,14 @@ public class ArrayExamples {
     return arr;
   }
 }
-```
-This is the Junit test 
-```
 @Test
   public void testReversed() {
     int[] input1 = { };
     assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
   }
 ```
+* A symptom: the output on the terminal from running the test case is expected to crack the code.
+
+An output from a Failure-inducing input for the buggy program:
+
+
