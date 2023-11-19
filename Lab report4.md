@@ -12,7 +12,7 @@
 Press j 44 times Press e3 Press l Press i press backspace press 2 press :wq
 ![Image](lab4img4.png)
 "git add ListExamples.java"
-<up><up><enter> (The bash test.sh command was up 2 in the search history, so I used the up arrow to access it)
+<up> <up> <enter> (The bash test.sh command was up 2 in the search history, so I used the up arrow to access it)
 ![Image](lab4img5.png)
  git commit -m "changed index1 below to index2", git push -u origin main,
 ![Image](lab4img6.png) ![Image](lab4img7.png)
