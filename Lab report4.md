@@ -1,14 +1,17 @@
 # Lab Report #4 - Vim
 
 ## Keys Pressed:
-"ssh cs15lfa23nk@ieng6.ucsd.edu" <enter>
+* "ssh cs15lfa23nk@ieng6.ucsd.edu" 
+* ```<enter>```
+*
 ![Image](lab4img1.png)
-"git clone git@github.com:DustinKeovanna/lab7.git <enter>
+*
+"git clone git@github.com:DustinKeovanna/lab7.git ```<enter>```
 (unfortunately, I already used the command, so I can't show the cloning in the terminal) 
 ![Image](lab4img2.png)
-"bash test.sh" <enter>
+"bash test.sh" ```<enter>```
 ![Image](lab4img3.png)
-"vim ListExamplesTests.java"
+"vim ListExamplesTests.java" ```<enter>```
 Press j 44 times Press e3 Press l Press i press backspace press 2 press :wq
 ![Image](lab4img4.png)
 "git add ListExamples.java"
