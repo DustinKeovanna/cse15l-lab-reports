@@ -83,7 +83,7 @@ The problem with the original code was that we were changing the original array 
 ## Part 2 - Researching Commands
 I will use grep as my command
 
-### -r
+### grep -r
 *
 ```
 Dustins-MacBook-Air:biomed dustin$ grep -r "Darwin" *.txt
@@ -161,4 +161,4 @@ Workers_aid_center.txt
 
 This command looks within directories and outputs every file that contains the keyword. This command is useful when you're looking for a word and want to collect every file that contains the word.
 
-I used geeksforgeeks.org[Geeksforgeeks.org](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) to help write my descriptions of the grep commands.
+I used [Geeksforgeeks.org](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) to help write my descriptions of the grep commands.
