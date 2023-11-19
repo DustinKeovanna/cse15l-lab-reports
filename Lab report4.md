@@ -7,7 +7,7 @@
 ![Image](lab4img1.png)
 (The order of commands I typed out logged me into my ieng6 remote account)
 
-* "git clone git@github.com:DustinKeovanna/lab7.git 
+* "git clone git@github.com:DustinKeovanna/lab7.git" 
 * ```<enter>```
 (The order of commands I typed out would have cloned my forked repository from my GitHub account using the SSH URL. Unfortunately, I already used the command, so I can't show the cloning in the terminal) 
 
