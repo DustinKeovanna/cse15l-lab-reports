@@ -19,14 +19,15 @@
 ![Image](lab4img3.png)
 (The order of commands I typed out shows the tests being run and failing)
 
-"vim ListExamplesTests.java" ```<enter>```
-* (44) x <j>
-* <e3>
-* <l> 
-* <i> 
+* "vim ListExamplesTests.java"
+*  ```<enter>```
+* (44) x j
+* e3
+* l 
+* i 
 * ```<backspace>``` 
-* <2> 
-* <:wq>
+* 2 
+* :wq
 
 ![Image](lab4img4.png)
 (The order of commands I typed out shows me editing the code through Vim)
