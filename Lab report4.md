@@ -9,9 +9,9 @@
 
 * "git clone git@github.com:DustinKeovanna/lab7.git" 
 * ```<enter>```
-(The order of commands I typed out would have cloned my forked repository from my GitHub account using the SSH URL. Unfortunately, I already used the command, so I can't show the cloning in the terminal) 
 
 ![Image](lab4img2.png)
+(The order of commands I typed out would have cloned my forked repository from my GitHub account using the SSH URL. Unfortunately, I already used the command, so I can't show the cloning in the terminal) 
 
 * "bash test.sh" 
 * ```<enter>```
