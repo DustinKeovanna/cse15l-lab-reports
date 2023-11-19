@@ -26,7 +26,7 @@
 * <i> 
 * ```<backspace>``` 
 * <2> 
-*<:wq>
+* <:wq>
 
 ![Image](lab4img4.png)
 (The order of commands I typed out shows me editing the code through Vim)
