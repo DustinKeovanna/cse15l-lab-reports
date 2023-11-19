@@ -3,9 +3,8 @@
 ## Keys Pressed:
 * "ssh cs15lfa23nk@ieng6.ucsd.edu" 
 * ```<enter>```
-*
 ![Image](lab4img1.png)
-*
+
 "git clone git@github.com:DustinKeovanna/lab7.git ```<enter>```
 (unfortunately, I already used the command, so I can't show the cloning in the terminal) 
 ![Image](lab4img2.png)
