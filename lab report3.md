@@ -117,3 +117,47 @@ Priority Mail service! Faster service at a lower price means
 Priority and Parcel Post. The USPS has proposed extending this
 ```
 grep -i is somewhat similar to grep -r, where both commands take in a word and look for its every occurrence. Grep -i differs by printing the entire line the word appears in. This command is useful when you want to have some sort of understanding of the text you're looking at.
+
+### grep -c
+*
+```
+Dustins-MacBook-Air:911report dustin$ grep -c "Thumairy" ./chapter-7.txt
+11
+```
+*
+```
+Dustins-MacBook-Air:technical dustin$ grep -c "develop" */journal.pbio.0030021.txt   
+15
+```
+grep -c counts every line the word appears in a text file. You could use this command to get an idea of how common the word appears in a file.
+
+###  grep -l
+*
+```
+Dustins-MacBook-Air:biomed dustin$ grep -l "ecology" *.txt   
+1471-2180-3-4.txt
+1471-2458-2-25.txt
+1472-6785-1-3.txt
+1472-6785-1-5.txt
+1472-6785-2-6.txt
+1472-6785-2-7.txt
+1472-6874-2-13.txt
+1475-2875-1-14.txt
+1476-4598-2-24.txt
+```
+*
+```
+Dustins-MacBook-Air:Media dustin$ grep -l "immigrant" *.txt   
+Aid_Gets_7_Million.txt
+Barr_sharpening_ax.txt
+RoanokeTimes.txt
+The_State_of_Pro_Bono.txt
+Understanding.txt
+Unusual_Woodburn.txt
+Using_Tech_Tools.txt
+Workers_aid_center.txt
+```
+
+This command looks within directories and outputs every file that contains the keyword. This command is useful when you're looking for a word and want to collect every file that contains the word.
+
+I used geeksforgeeks.org[Geeksforgeeks.org](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) to help write my descriptions of the grep commands.
