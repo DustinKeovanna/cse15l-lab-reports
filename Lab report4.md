@@ -33,11 +33,12 @@
 (The order of commands I typed out shows me editing the code through Vim)
 
 * "git add ListExamples.java"
+* git commit -m "changed index1 below to index2" 
 * ```<up> <up> <enter>``` 
 
 ![Image](lab4img5.png)
 (The order of commands I typed out shows me committing the changes I made to the code and running to see the newly passed tests. The bash test.sh command was up 2 in the search history, so I used the up arrow to access it)
  
-* git commit -m "changed index1 below to index2" 
-* git push -u origin main,
+* git push -u origin main
 ![Image](lab4img6.png) ![Image](lab4img7.png)
+(The order of commands I typed out shows me pushing the changes to my forked repository)
