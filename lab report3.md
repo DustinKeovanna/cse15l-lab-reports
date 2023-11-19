@@ -49,6 +49,7 @@ The output that should fail.
 ![Image](lab3img2.png)
 
 * Before and after showcases of fixing the bug in the code
+
 Before:
 ```
 public class ArrayExamples {
