@@ -40,5 +40,5 @@
 (The order of commands I typed out shows me committing the changes I made to the code and running to see the newly passed tests. The bash test.sh command was up 2 in the search history, so I used the up arrow to access it)
  
 * ```git push -u origin main```
-![Image](lab4img6.png) ![Image](lab4img7.png)
+![Image](RevisedLab4.png) ![Image](lab4img7.png)
 (The order of commands I typed out shows me pushing the changes to my forked repository)
