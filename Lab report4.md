@@ -16,7 +16,7 @@
 * ```bash test.sh``` 
 * ```<enter>```
 
-![Image](lab4img3.png)
+![Image](RevisedLab4pt2.png)
 (The order of commands I typed out shows the tests being run and failing)
 
 * "vim ListExamplesTests.java"
