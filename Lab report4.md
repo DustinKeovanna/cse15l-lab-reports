@@ -21,13 +21,13 @@
 
 * "vim ListExamplesTests.java"
 *  ```<enter>```
-* (44) x ```j```
-* ```e3```
-* ```l``` 
-* ```i``` 
-* ```<backspace>``` 
-* ```2``` 
-* ```:wq```
+* (44) x ```j``` (this button lets me scroll down while using vim)
+* ```e3``` (this button is a shortcut to horizontally move right through 3 words)
+* ```l``` (this button lets me horizontally move left)
+* ```i``` (this button lets me insert text)
+* ```<backspace>``` (I pressed this button to delete the 1)
+* ```2``` (I inserted the 2)
+* ```:wq``` (I pressed this button to quit and save)
 
 ![Image](lab4img4.png)
 (The order of commands I typed out shows me editing the code through Vim)
