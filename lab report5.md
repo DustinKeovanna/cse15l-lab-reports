@@ -5,5 +5,6 @@ I just forked the lab7 directory and should've fixed the ```merge``` method bug 
 
 The commands I ran:
 * ```bash test.sh```
-
+(Screenshot of my terminal below)
+![Image](lab5img1.png) ![Image](lab5img2.png)
 
