@@ -8,3 +8,12 @@ The commands I ran:
 (Screenshot of my terminal below)
 ![Image](Lab5img1.png) ![Image](Lab5Img2.png)
 
+Here's also a pic of my file structure with each screenshot of a file:
+![Image](lab5img3.png)
+
+ListExamples.Java
+![Image](lab5img4.png) ![Image](lab5img5.png)
+
+test.sh
+![Image](lab5img6.png)
+
