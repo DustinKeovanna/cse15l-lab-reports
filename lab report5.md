@@ -44,3 +44,6 @@ I noticed I also use the "List" class type, so I think I would add the line, "ja
 Amazing! My terminal doesn't show an error anymore after running ```bash test.sh``` again.
 ![Image](lab5img10.png) 
 
+## Part 2 – Reflection
+I think the coolest parts I enjoyed learning about would have to be in the later weeks where we learned how to edit files using vim. It was the most visual part of the class and even though navigating through vim can be awkward, it was the least technical part of the class. Also, I may not have done well in Skill Demo 3, I still enjoyed writing a bash for loop for the first time. When I was working on my 3rd lab report, I remember asking an unrelated question about why git cloning and forking a repository served different purposes when they both allowed us access to the files within a repository. Turns out there's a reason we want to for a repository so we can clone it later, and that's because we couldn't push our changes if we happened to git clone a repository that didn't belong to us. It makes sense why you shouldn't be allowed to push changes to a repository you don't own, but it helped me understand the functions of what forking and git cloning
+really do.
