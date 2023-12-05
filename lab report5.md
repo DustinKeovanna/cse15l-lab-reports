@@ -18,3 +18,17 @@ ListExamples.Java
 test.sh
 ![Image](lab5img6.png)
 
+**Joe Paulina:**
+In the 2nd image of your terminal that you shared, on the 3rd line, it says "Could not find class [ListExamplesTests.class]". Looking back to your bash test script, do you remember what the last parameter of the JUnit test runner looks for?
+
+**Anonymous:**
+it should ask for the class of the tests I wanna run, which is what I copied and pasted from file directory.
+
+**Joe Paulina:**
+That's totally correct, if the command is already looking for a class file within your directory, do you need to specify the ```.class``` in the command? try running the terminal again.
+
+**Anonymous:**
+![Image](lab5img7.png)
+ I removed the ```.class``` in the 2nd line and ran the terminal again, and it seems like all of the tests were able to compile. This shows that my bug in the bash script where the JUnit runner couldn't find the correct class of the test cases. I had the file, but named it incorrectly.
+![Image](lab5img8.png) 
+The image above shows my tests compiling correctly but I still have the errors running above. I'm completely lost with how I could fix ```ListExamples.Java```
