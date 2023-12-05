@@ -9,6 +9,7 @@ The commands I ran:
 ![Image](Lab5img1.png) ![Image](Lab5Img2.png)
 
 Here's also a pic of my file structure with each screenshot of a file:
+
 ![Image](lab5img3.png)
 
 ListExamples.Java
